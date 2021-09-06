@@ -1,0 +1,11 @@
+body {
+  height: 200vh;
+    position: relative;
+  text-align: center;
+}
+
+img {
+position: absolute;
+  bottom:0;
+    transform: translateX(-50%)
+}
